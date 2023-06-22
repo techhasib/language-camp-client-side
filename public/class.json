@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/PD8tvp0/spanish.png",
+      "name": "Spanish",
+      "instructor_name": "John Doe",
+      "instructor_image": "https://i.ibb.co/v1B5hjM/teacherone.png",
+      "instructor_email": "john.doe@example.com",
+      "available_seats": 20,
+      "price": 100
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/ScXngMw/French.png",
+      "name": "French",
+      "instructor_name": "Jane Smith",
+      "instructor_image": "https://i.ibb.co/ZVJNQTH/teachertwo.png",
+      "instructor_email": "jane.smith@example.com",
+      "available_seats": 15,
+      "price": 120
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/NLMyGMD/German.png",
+      "name": "German",
+      "instructor_name": "David Johnson",
+      "instructor_image": "https://i.ibb.co/zfv1xFp/teacherthree.png",
+      "instructor_email": "david.johnson@example.com",
+      "available_seats": 18,
+      "price": 110
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/YkN5h6C/Italian.png",
+      "name": "Italian",
+      "instructor_name": "Emily Davis",
+      "instructor_image": "https://i.ibb.co/qmg558Y/teacherfour.png",
+      "instructor_email": "emily.davis@example.com",
+      "available_seats": 22,
+      "price": 105
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/6yMfbtK/Chinese.png",
+      "name": "Chinese",
+      "instructor_name": "Michael Wilson",
+      "instructor_image": "https://i.ibb.co/mStQvns/teacherfive.png",
+      "instructor_email": "michael.wilson@example.com",
+      "available_seats": 16,
+      "price": 130
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/qY2BFMK/Japanese.png",
+      "name": "Japanese",
+      "instructor_name": "Olivia Martinez",
+      "instructor_image": "https://i.ibb.co/s6KZhS2/teachersix.png",
+      "instructor_email": "olivia.martinez@example.com",
+      "available_seats": 25,
+      "price": 115
+    }
+  ]
+  
